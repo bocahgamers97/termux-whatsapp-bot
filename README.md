@@ -92,7 +92,7 @@ Example:
 - Change ```BarBarKey``` with your mhankbarbar ApiKey
 Example:
 ```bash
-"BarBarKey": "A4wJwkoSak82hj82NWo92",
+"BarBarKey": "BocahGamers97",
 ```
 - Change ```ownerNumbers``` with your WhatsApp Number ID
 Example:
@@ -110,7 +110,7 @@ Follow The Steps Below!
 > termux-setup-storage
 (after that tap on permission)
 > apt install git -y
-> git clone https://github.com/NazwaS/termux-whatsapp-bot
+> git clone https://github.com/BocahGamers97/termux-whatsapp-bot
 > cd termux-whatsapp-bot
 > bash install.sh
 ```
