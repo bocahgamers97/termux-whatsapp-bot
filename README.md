@@ -1,4 +1,4 @@
-### Moshi Moshi~ I'm Nazwa<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
+### Moshi Moshi~ I'm DICKY<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 <p align="center">
 <a href="https://github.com/NazwaS"><img src="https://raw.githubusercontent.com/NazwaS/NazwaS/main/img/Nazwa.jpg"></a>
 </p>
@@ -28,9 +28,9 @@
 <details>
  <summary>🍙 Help me!</summary>
  
- [Saweria](https://saweria.co/nazwas)
+ [Saweria](https://saweria.co/DICKY)
 
- [Trakteer](https://trakteer.id/NazwaS)
+ [Trakteer](https://trakteer.id/DICKY)
  
 </details>
 </div>
@@ -73,21 +73,21 @@
 ```bash
 {
     "botName": "BOT_NAME",
-    "ownerName": "OWNER_NAME",
+    "ownerName": "DICKY",
     "BarBarKey": "YOUR_APIKEY",
-    "ownerNumbers": "628885xxxxxx@s.whatsapp.net"
+    "ownerNumbers": "13476998180@s.whatsapp.net"
 }
 ```
 
 - Change ```botName``` with your Bot Name
 Example:
 ```bash
-"botName": "Isemori Bot",
+"botName": "DICKY Bot",
 ```
 - Change ```ownerName``` with your Name
 Example:
 ```bash
-"ownerName": "Nazwa",
+"ownerName": "DICKY",
 ```
 - Change ```BarBarKey``` with your mhankbarbar ApiKey
 Example:
@@ -97,7 +97,7 @@ Example:
 - Change ```ownerNumbers``` with your WhatsApp Number ID
 Example:
 ```bash
-"ownerNumbers": "12542123926@s.whatsapp.net"
+"ownerNumbers": "13476998180@s.whatsapp.net"
 ```
 
 ---
@@ -362,6 +362,6 @@ Follow The Steps Below!
 
 ## Special Thanks To
 
-- [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)
-- [MhankBarBar](https://github.com/mhankbarbar)
-- [Nurutomo](https://github.com/Nurutomo)
+- [@BocahGamers97]
+- [DickyMeong]
+- TeamBot
